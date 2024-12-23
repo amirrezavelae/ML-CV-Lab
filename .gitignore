@@ -1,0 +1,23 @@
+*.csv
+Lab 1/Lab1/Data/images
+Lab 1/HW1
+Lab 2/HW2
+Lab 2/Lab 2/surprise videos
+Lab 3/Lab3/Data
+Lab 4/Lab 4/Data
+Lab 5/Lab5_400102222.zip
+*.mp4
+*.avi
+Lab 7/LAB7.zip
+Lab 7/Lab 7/Data
+Lab 8/Data
+Lab 8/Lab8_400102222.zip
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.tex
+*.sty
+*.xdv
+*.out
